@@ -38,6 +38,7 @@ A curated list of awesome Markdown tools
 ###Multi-platform Markdown Editors
 * [CuteMarkEd](http://cloose.github.io/CuteMarkEd/)
 * [Haroopad](http://pad.haroopress.com/)
+* [Markdific](https://markdific.com) - Markdown viewer and editor for Mac, Windows and Linux.
 
 ###Linux Markdown Editors
 * [Remarkable](http://remarkableapp.net/)
